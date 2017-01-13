@@ -4,7 +4,7 @@
   "author": "Stephen Mathieson <me@stephenmathieson.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/stephenmathieson/node-globs.git"
+    "url": "https://github.com/stephenmathieson/node-globs.git"
   },
   "main": "index.js",
   "dependencies": {
